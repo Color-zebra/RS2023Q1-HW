@@ -1,0 +1,1 @@
+## Public repository for some additional tasks when taking the RSSchool JSFE-2023Q1 course.
